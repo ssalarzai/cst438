@@ -25,5 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-The project FruVeg which is an online grocerry store started sep 12 2019. The project so far has three pages in total. The Home page, the login page and the product list page. The home page has a title, a little p tag description about the FruVeg and an Image. The login page has username and password labels as well as a sign in button, which doesnt do anything rightnow. The product list has three images of vegetables with a description button underneath them. The button doesnt do anything for the moment.  
